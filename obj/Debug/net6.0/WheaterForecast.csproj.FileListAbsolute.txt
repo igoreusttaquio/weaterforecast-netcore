@@ -1,0 +1,6 @@
+C:\Users\acesso\source\repos\WheaterForecast\WheaterForecast\bin\Debug\net6.0\WheaterForecast.exe
+C:\Users\acesso\source\repos\WheaterForecast\WheaterForecast\bin\Debug\net6.0\WheaterForecast.dll
+C:\Users\acesso\source\repos\WheaterForecast\WheaterForecast\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\acesso\source\repos\WheaterForecast\WheaterForecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acesso\source\repos\WheaterForecast\WheaterForecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acesso\source\repos\WheaterForecast\WheaterForecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
